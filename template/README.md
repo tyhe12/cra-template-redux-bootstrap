@@ -1,1 +1,1 @@
-## React template with Redux and React-Bootstrap
+## React template with Redux, React-Router, and React-Bootstrap
